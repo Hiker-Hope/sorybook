@@ -1,2 +1,2 @@
-# keaboard-master
+# Keyboard Master
 Клавиатурный тренажёр из мира фронтенда
