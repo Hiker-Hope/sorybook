@@ -1,6 +1,6 @@
 import * as React from 'react';
-import './index.scss';
 import { ChangeEvent } from 'react';
+import './index.css';
 
 const cn = require('classnames');
 

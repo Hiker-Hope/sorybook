@@ -1,0 +1,31 @@
+.input {
+  width: 100%;
+  margin: 16px;
+  padding: 4px 10px;
+  cursor: pointer;
+}
+
+.input_size_s {
+  height: 30px;
+  font-size: 16px;
+}
+
+.input_size_m {
+  height: 36px;
+  font-size: 20px;
+}
+
+.input_size_l {
+  height: 44px;
+  font-size: 36px;
+}
+
+.input_color_red {
+  background-color: #ffcccb;
+}
+
+.input_disabled {
+  opacity: 0.4;
+  pointer-events: none;
+  cursor: auto;
+}

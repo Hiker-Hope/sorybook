@@ -5,7 +5,7 @@ import { Input } from './input';
 import { Heading } from './heading';
 import { Button } from './button';
 
-import './styles.scss';
+import './styles.css';
 
 const validateEmail = (email: string): boolean => {
   const re = /(.+)@(.+){2,}\.(.+){2,}/;

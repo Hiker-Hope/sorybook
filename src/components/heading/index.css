@@ -1,0 +1,16 @@
+.heading {
+  width: 100%;
+  margin: 16px 0;
+}
+
+.heading_size_s {
+  font-size: 28px;
+}
+
+.heading_size_m {
+  font-size: 36px;
+}
+
+.heading_size_l {
+  font-size: 44px;
+}
