@@ -57,14 +57,14 @@ export const App = () => {
       <div className={'actions'}>
         <Button
           size={size}
-          color={'yellow'}
+          color={'grey'}
           disabled={false}
           text={'Отмена'}
           onClick={handleCancel}
         />
         <Button
           size={size}
-          color={'red'}
+          color={'blue'}
           disabled={isError}
           text={'Отправить'}
           onClick={handleSubmit}
